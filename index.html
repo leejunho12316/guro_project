@@ -264,6 +264,7 @@ $('ghsave').onclick=async()=>{const t=$('ghtok').value.trim();if(!t){$('ghst').t
   if(!r.ok){$('ghst').innerHTML='<span style="color:#d33">토큰을 확인할 수 없어요 ('+r.status+'). 저장소 접근 권한을 확인해주세요.</span>';return;}
   LS.set('gh_token',t);ghState();$('ghst').innerHTML='<span style="color:#03a14b">✔ 연결됐어요! 이제 ☆를 누르면 저장돼요.</span>';setTimeout(()=>$('ghm').classList.remove('open'),900);loadFav();
  }catch(e){$('ghst').textContent='네트워크 오류: '+e.message;}};
+(function(){const m=location.hash.match(/^#connect=(.+)$/);if(m){LS.set('gh_token',decodeURIComponent(m[1]));history.replaceState(null,'',location.pathname+location.search);FAVMODE=false;setTimeout(()=>toast('✔ 이 기기가 즐겨찾기 저장소에 연결됐어요'),600);}})();
 ghState();B.classList.toggle('favmode',FAVMODE);loadFav().then(()=>{if(FAVMODE)setFavMode(true);});
 
 const fb=$('fold');function setFold(f){document.body.classList.toggle('fold',f);fb.textContent=f?'▶':'◀';fb.title=f?'목록 펼치기':'목록 접기';setTimeout(()=>map.invalidateSize(),280);}
