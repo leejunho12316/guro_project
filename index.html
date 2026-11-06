@@ -158,8 +158,9 @@ L.circle([37.4865498,126.8961124],{radius:865,color:'#03C75A',weight:2,dashArray
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const n1=v=>(Math.round(v*10)/10).toLocaleString();
 const price=x=>n1(x.d)+'/'+n1(x.r);
+function linkOf(x){return (x.p==='직방'&&window.innerWidth<1000)?x.url.replace('https://www.zigbang.com/','https://m.zigbang.com/'):x.url;}
 function popup(x){const p=P[x.p];
-return '<div class="pop"><button class="star pstar'+(isFav(x)?' on':'')+'" data-k="'+esc(x.k)+'" title="즐겨찾기">'+(isFav(x)?'★':'☆')+'</button><a class="hd" href="'+esc(x.url)+'" target="_blank" rel="noopener" title="'+esc(x.p)+'에서 매물 보기" style="background:'+p.c+'"><div class="pr" style="margin-top:0">'+price(x)+' <span style="font-size:13px;font-weight:600">· 관리비 '+n1(x.m)+'만</span></div><div class="t">'+esc(x.t||'')+'</div></a><table>'+
+return '<div class="pop"><button class="star pstar'+(isFav(x)?' on':'')+'" data-k="'+esc(x.k)+'" title="즐겨찾기">'+(isFav(x)?'★':'☆')+'</button><a class="hd" href="'+esc(linkOf(x))+'" target="_blank" rel="noopener" title="'+esc(x.p)+'에서 매물 보기" style="background:'+p.c+'"><div class="pr" style="margin-top:0">'+price(x)+' <span style="font-size:13px;font-weight:600">· 관리비 '+n1(x.m)+'만</span></div><div class="t">'+esc(x.t||'')+'</div></a><table>'+
 '<tr><td>지역</td><td>'+esc(x.a)+'</td></tr>'+
 '<tr><td>출퇴근</td><td><b>약 '+x.cm+'분</b><br>'+esc(x.ch)+'<br><span style="color:#999">회사까지 직선 '+x.dist.toLocaleString()+'m</span></td></tr>'+
 '<tr><td>금액</td><td>보증금 '+n1(x.d)+'만원<br>월세 '+n1(x.r)+'만 + 관리비 '+n1(x.m)+'만 = <b>월 '+n1(x.tot)+'만원</b></td></tr>'+
