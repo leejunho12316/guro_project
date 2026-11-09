@@ -199,6 +199,10 @@ $('cards').innerHTML=vis.slice(0,400).map(x=>{const c=P[x.p].c;const warn=(x.nw?
 return '<div class="card" data-i="'+x.i+'"><span class="src" style="background:'+c+'">'+esc(x.p)+'</span><span style="font-size:12px;color:#888">'+esc(x.a)+'</span><div class="pr">월세 '+price(x)+'</div><div class="sub">관리비 '+n1(x.m)+'만 · 월 총 <b>'+n1(x.tot)+'만</b> · 전용 '+n1(x.py)+'평 · '+esc((x.f||'').split('/')[0].trim())+'</div><div class="tt">'+esc(x.t)+'</div><span class="badge">🚶 출퇴근 약 '+x.cm+'분</span>'+rvb+warn+(x.gone?'<span class="badge g">현재 수집 목록에 없음 · 광고 종료 가능</span>':'')+'<button class="star'+(isFav(x)?' on':'')+'" data-k="'+esc(x.k)+'" title="즐겨찾기">'+(isFav(x)?'★':'☆')+'</button></div>';}).join('')+(vis.length>400?'<div style="padding:14px;color:#888;font-size:13px;text-align:center">목록은 400개까지만 표시돼요. 필터를 좁혀보세요.</div>':'');
 if(!vis.length)$('cards').innerHTML=FAVMODE?'<div class="empty">아직 즐겨찾기한 방이 없어요.<br>지도 핀이나 목록의 ☆를 눌러 추가해보세요.</div>':'<div class="empty">조건에 맞는 방이 없어요. 필터를 넓혀보세요.</div>';}
 $('cards').onclick=e=>{const el=e.target.closest('.card');if(!el)return;const x=DATA[+el.dataset.i];document.querySelectorAll('.card.act').forEach(c=>c.classList.remove('act'));el.classList.add('act');groups[x.p].zoomToShowLayer(x.mk,()=>x.mk.openPopup());};
+const SAVEF=['fTot','fDep','fUse','fFl','fYr'];
+(function(){try{const s=JSON.parse(localStorage.getItem('gudi_filters')||'{}');SAVEF.forEach(id=>{const el=$(id);if(s[id]!=null&&[...el.options].some(o=>o.value===s[id]))el.value=s[id];});}catch(e){}})();
+function saveF(){try{const o={};SAVEF.forEach(id=>o[id]=$(id).value);localStorage.setItem('gudi_filters',JSON.stringify(o));}catch(e){}}
+SAVEF.forEach(id=>$(id).addEventListener('change',saveF));
 ['fCm','fTot','fDep','fUse','fFl','fYr','fVio','fRv','sort'].forEach(id=>$(id).addEventListener('change',render));
 render();
 const isMob=()=>matchMedia('(max-width:768px)').matches;
