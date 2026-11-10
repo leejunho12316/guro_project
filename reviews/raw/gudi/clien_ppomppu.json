@@ -1,0 +1,1476 @@
+[
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/cm_solo/5464773",
+  "title": "혹시 구로디지털단지역에서 원룸 지내시는분 중앙난방에 대하여...",
+  "date": "2014-01-22",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "mixed",
+  "summary": "구디역 근처 원룸의 중앙난방(가스비 포함) 여부 질문. 댓글: 집주인 마음대로라 추위 타면 개별난방 추천, 구디 원룸촌 중앙난방에서 2년 살며 전기·수도·가스·관리 합쳐 월 10만원으로 만족했다는 경험도 있음.",
+  "comments": 5
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/5583017",
+  "title": "구디 인근 원룸 질문 드립니다.",
+  "date": "2014-02-18",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "구디 직장인이 인근 원룸 시세 문의. 댓글: 구디도 홍대·건대 등과 비슷하게 500/50, 1000/45 수준으로 균일하며 보증금 올리면 월세 협상 가능하다는 의견(2014년 기준).",
+  "comments": 1
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16869605",
+  "title": "사람들이 대림동, 가리봉동에 편견이 좀 심하네요.",
+  "date": "2022-01-13",
+  "areas": [
+   "daerim",
+   "garibong",
+   "guro_res"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "mood",
+   "amenities"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림·가리봉에 대한 편견이 심하다는 글. 경찰이 방검복 입고 4인1조로 순찰, 밤 뒷골목·취객만 피하면 괜찮고 음식이 좋다는 주장. 댓글은 \"그 자체가 정상적인 서울 동네는 아니다\", \"구로동 6년 살았는데 편견이 안 생길 수 없다\", \"낮에 큰길로만 다니면 괜찮다\"로 갈림.",
+  "comments": 68
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18141086",
+  "title": "사람들은 대림동에 대해 너무 편견이 많군요.",
+  "date": "2023-06-19",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "amenities"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림동을 10년 다닌 작성자가 칼부림 2번, 체포 6번 목격했지만 밤 골목과 취객만 피하면 된다고 주장. 댓글 다수는 반어법이냐며 \"그런 걸 본 적 있는 동네가 정상이 아니다\", \"늦어도 밤 8시까지만 가라\", 친구 데려갔다가 살인사건 현장을 봤다는 경험 공유.",
+  "comments": 52
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15823735",
+  "title": "대림동 흉기 난동 사건 위치 찾아봤더니...",
+  "date": "2021-01-23",
+  "areas": [
+   "daerim",
+   "gudi"
+  ],
+  "topics": [
+   "safety",
+   "foreigners"
+  ],
+  "sentiment": "negative",
+  "summary": "2021년 1월 대림동 4차선 대로변 흉기 살인사건 위치 분석(대림역보다 구디역 쪽에 가까움). 댓글: 당사자 모두 중국 국적(조선족) 치정 사건으로 추정, \"치안이 막장\", \"저 동네는 피해야 한다\"는 반응.",
+  "comments": 13
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15506730",
+  "title": "구로동 대림동이 조선족 중국인들이 사는 무법지대로 아시는 분들이 있네요",
+  "date": "2020-10-23",
+  "areas": [
+   "daerim",
+   "guro_res"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "mood",
+   "transport"
+  ],
+  "sentiment": "mixed",
+  "summary": "구로 삼성래미안(대림역 인근)에 10년 넘게 산 작성자가 \"무법지대 아니다, 그냥 서울\"이라 주장. 다만 내복 차림으로 길에 눕기, 무단횡단, 중국어 간판, 취객은 흔하다고 인정. 댓글은 대체로 \"그냥 사람 사는 곳, 싸고 맛있다\"지만 대동초 주변 주택가에 2년 살며 경찰 신고 2번, 집 앞에 범죄 피해자가 쓰러져 있던 경험을 적은 반박도 있음.",
+  "comments": 28
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18651039",
+  "title": "대림동에서 본 인상깊던 중국인(?)",
+  "date": "2024-03-20",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "foreigners",
+   "mood"
+  ],
+  "sentiment": "neutral",
+  "summary": "대림동 식당에서 만난 귀화 중국동포(해병대 출신) 일화. 대림동 중국계는 돈 벌고 돌아갈 사람과 한국인으로 살려는 사람으로 나뉘며 극성 일부가 혐중 감정을 만든다는 관찰. 댓글은 대부분 한국 정착 지향이라는 의견과 토착민이 떠났다는 의견이 섞임.",
+  "comments": 17
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16339249",
+  "title": "대림 , 가리봉 이쪽은 정말 심각하네요.",
+  "date": "2021-07-21",
+  "areas": [
+   "daerim",
+   "garibong"
+  ],
+  "topics": [
+   "foreigners",
+   "housing"
+  ],
+  "sentiment": "negative",
+  "summary": "지인이 대림·가리봉 부동산을 갔더니 조선족 중개사가 한국인에게 집을 안 보여줬다며 \"노코리안존\"을 우려하는 글. 140여 개 댓글은 아파트값이 유독 싸다, 놀이터 아이들이 중국어를 쓴다는 얘기와 차별 논쟁으로 격하게 갈림.",
+  "comments": 137
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15606359",
+  "title": "대림역 주변 아파트 시세 원래같으면 25평 9~10억정도 되지 않을까요?",
+  "date": "2020-11-20",
+  "areas": [
+   "daerim",
+   "guro_res"
+  ],
+  "topics": [
+   "housing",
+   "transport",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림역 주변은 2·7호선 환승, 여의도 20분·강남 30분대인데 차이나타운 이미지로 25평 6억대라는 글(2020). 댓글: 대림역·남구로역·구로역 다 걸어서 이용 가능해 대중교통은 좋으나 차로는 매우 막힘, 생활환경·교육은 아쉽고 \"여성들이 싫어해서\" 신혼집으로 기피된다는 의견, 구로두산·삼성래미안은 이미 8~9억으로 올랐다는 정보.",
+  "comments": 27
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/19030838",
+  "title": "가리봉동 시장 근황",
+  "date": "2025-07-24",
+  "areas": [
+   "garibong"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "amenities"
+  ],
+  "sentiment": "negative",
+  "summary": "아이돌 경찰 체험 영상 속 가리봉시장 불법체류 단속에 주민들이 위협적으로 반발하는 모습에 대한 글(2025). 댓글: 상권은 대림시장으로 옮겨갔고 가리봉은 골목 구조라 접근성이 최악이며, 새벽 4시 구로고대병원 사거리엔 인력시장 외국인 노동자가 매우 많다는 증언.",
+  "comments": 13
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18513503",
+  "title": "가리봉동 유명 만두를 먹어봤습니다.",
+  "date": "2024-01-05",
+  "areas": [
+   "garibong"
+  ],
+  "topics": [
+   "amenities",
+   "foreigners"
+  ],
+  "sentiment": "positive",
+  "summary": "가리봉동 유명 만두집(월래순교자관) 배달 후기. 셀러리 들어간 동북식 만두로 맛있다는 평. 댓글: 평범하다는 의견도 있고, 호운래면식점·린궁즈멘관 등 근처 다른 중국 음식점 추천, 근처 주민도 요기요로 배달해 먹는다고 함.",
+  "comments": 17
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18308377",
+  "title": "대림동이 조선족들이 많은 이유가 있었네요.",
+  "date": "2023-09-16",
+  "areas": [
+   "daerim",
+   "garibong",
+   "guro_res"
+  ],
+  "topics": [
+   "foreigners",
+   "housing"
+  ],
+  "sentiment": "neutral",
+  "summary": "90년대 구로공단 일자리로 구로·가리봉에 조선족이 모였다가 재개발로 대림동으로 옮겨갔다는 역사 정리. 댓글: 지금도 구로2·4동에 중국어 간판이 계속 늘고 초등학교 입학생 다수가 중국계 자녀라는 증언, 가리봉은 쪽방 등 첫 정착지이고 대림에서 가게를 차리면 성공한 편이라는 설명.",
+  "comments": 11
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18037247",
+  "title": "'가리봉동 상권을 장악해보자' 중국 깡패들이 점령한 동네",
+  "date": "2023-04-20",
+  "areas": [
+   "garibong"
+  ],
+  "topics": [
+   "safety",
+   "foreigners"
+  ],
+  "sentiment": "negative",
+  "summary": "중국 조직원을 불러들여 가리봉동 상권을 장악하려던 폭력조직 검거 뉴스 공유(2023). 댓글은 혐오 반응과 함께 10년 전에도 한국인 가게에 행패 부려 싸게 넘겨받는 걸 봤다는 증언.",
+  "comments": 5
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/12783685",
+  "title": "대림동 집값 싸죠.",
+  "date": "2018-11-04",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "housing",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림동은 대단지·신축 아파트가 거의 없고 단독·다가구 가격은 주변(구로·신도림·신대방·남구로·신길)보다 싸지 않다는 글(2018). 댓글: 수요가 많아 상가 임대료도 높고 매물은 중국인들이 사간다, 그래도 거주지로는 안 가겠다는 반응.",
+  "comments": 7
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/cm_solo/9574963",
+  "title": "신대방역 4번 출구로 이사갑니다.",
+  "date": "2016-08-31",
+  "areas": [
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "amenities"
+  ],
+  "sentiment": "positive",
+  "summary": "신대방역 4번 출구 5분 거리 1.5룸(채광·베란다)으로 이사하며 동네 문의. 댓글: 초등학교 뒤 빌라촌, 보라매공원·시장이 가까워 살기 좋지만 오르막이 많아 겨울에 조심하라는 조언.",
+  "comments": 1
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/9569589",
+  "title": "신대방역쪽 사시는 분 계신가요?",
+  "date": "2016-08-30",
+  "areas": [
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "foreigners",
+   "transport",
+   "amenities"
+  ],
+  "sentiment": "positive",
+  "summary": "신대방역 4번 출구 근처 원룸 자취 예정인데 중국인이 많아 보여 문의. 댓글: 신대방~대방~신길에 중국인 많지만 사는 데 문제없음, 2호선 출퇴근 편하고 배달·편의점·세탁소 다 있어 혼자 살기 괜찮음, 보라매공원 근처 장점. 보라매 쪽 원룸은 좀 난잡하고 구로 쪽은 더 깨끗하다는 의견.",
+  "comments": 7
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/1208440",
+  "title": "신림동 사시는분 손~!",
+  "date": "2010-11-02",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "mood",
+   "amenities"
+  ],
+  "sentiment": "neutral",
+  "summary": "신림동 토박이의 동네 친구 찾기 글(2010). 댓글: 신림4동·미성동(난곡사거리)·대학동·신림8동(신대방역 근처) 주민들 인사, 신림 하면 순대볶음, 관악산 소풍 등 가벼운 동네 정서.",
+  "comments": 18
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16525808",
+  "title": "신림, 봉천...진상 병원, 가게들...",
+  "date": "2021-09-24",
+  "areas": [
+   "sillim",
+   "gwanak_gu"
+  ],
+  "topics": [
+   "amenities",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "봉천동으로 이사 온 작성자가 신림·봉천의 병원·가게(도배업체 등) 서비스가 이해 안 간다는 불만. 댓글: 봉천4동·10동 6년 자취 시절 약사에게 면박받은 경험, \"결국 안 맞는 동네\", 병원은 양지병원 추천.",
+  "comments": 31
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15478545",
+  "title": "신림역은 왜 젊고 이쁜 분들이 많은지",
+  "date": "2020-10-14",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "mood",
+   "housing"
+  ],
+  "sentiment": "neutral",
+  "summary": "신림역에 젊은 사람이 왜 많냐는 질문. 댓글: 원룸 공급 많고 시세 싸며 2호선으로 강남·홍대 접근 좋아 지방 출신 젊은 자취생이 많음, 서남부 최대 유흥가라는 설명과 \"무서운 동네 아니냐\"는 반응.",
+  "comments": 12
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/13841847",
+  "title": "현직 신림사거리 입니다",
+  "date": "2019-08-20",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "mood",
+   "noise",
+   "safety"
+  ],
+  "sentiment": "negative",
+  "summary": "새벽 신림사거리에 만취한 사람이 많다는 현장 글. 댓글: 새벽 4~5시 길이 온통 쓰레기(아침이면 치워짐), 순대타운·르네상스 건너편은 좀비 출몰, \"서울 공식 헬게이트\"라는 반응. 싸서 자취 고려하던 사람이 실망.",
+  "comments": 12
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18253170",
+  "title": "금일 신림동 사건은 여기인가보군요.",
+  "date": "2023-08-17",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "safety"
+  ],
+  "sentiment": "mixed",
+  "summary": "2023년 신림동 등산로 공원 성폭행 사건 장소가 집 뒤라는 주민 글. 공원보다는 산에 가깝고 난곡초 뒤쪽 인적 드문 외곽이라 기사가 자극적이라는 의견. 댓글은 CCTV·치안 보강 필요, 낮에도 인적 드문 곳은 피하라는 반응.",
+  "comments": 19
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/8715334",
+  "title": "중국인 많은 대림역에서 사는데요. 질문 받습니다.",
+  "date": "2016-01-29",
+  "areas": [
+   "daerim",
+   "guro_res",
+   "garibong"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림역 부근 구로동 토박이가 질문 받는 글(2016): 한국인 반 조선족 반이지만 생각보다 치안 괜찮고 경찰이 신경 많이 씀. 댓글 문답: 동네 한국인은 조선족 가게를 잘 안 감, 강 건너 럭키아파트 쪽은 괜찮고 대림동 쪽엔 경찰 버스 상주, 남구로~가리봉오거리 구간이 대림역보다 분위기가 확연히 다르다는 질문.",
+  "comments": 29
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/10848131",
+  "title": "가산디지털단지 주변에 자취하기 좋은 곳이 어딜까요?",
+  "date": "",
+  "areas": [
+   "gasan",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "가산디지털단지 출근자의 자취 지역 문의. 댓글: 가산 근무자는 보통 독산동에 많이 구하고 독산동·시흥동 안쪽 빌라가 매우 싸다는 조언.",
+  "comments": 4
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/767151",
+  "title": "가산디지털단지 자취 관련 문의",
+  "date": "",
+  "areas": [
+   "gasan",
+   "sillim"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "가산디지털단지 출근 예정 지방 출신의 자취방 문의. 댓글: 가산 바로 주변은 오히려 비싸니 신림 쪽 추천(원룸 전세 3~5천, 오래된 글), 광명·안양도 대안.",
+  "comments": 6
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/10599627",
+  "title": "안양 만안구 포기하고 금천구청역으로 가네요",
+  "date": "2017-04-15",
+  "areas": [
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "mood",
+   "amenities"
+  ],
+  "sentiment": "positive",
+  "summary": "안양 대신 금천구청역 3분 거리 투룸 오피스텔을 택한 후기(2017). 시흥대로 상권, 안양천 산책 가능, 역 주변 깨끗하고 분위기 괜찮다는 평. 댓글: 금천구는 조용한 동네, 다만 소방서·경찰서가 구 내에 없다는 지적과 안전센터가 있어 크게 문제없다는 반박.",
+  "comments": 19
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18740894",
+  "title": "직장인은 공감한다는 구로, 가산디지털단지 분위기.jpg",
+  "date": "2024-06-07",
+  "areas": [
+   "gudi",
+   "gasan"
+  ],
+  "topics": [
+   "mood",
+   "work",
+   "amenities"
+  ],
+  "sentiment": "negative",
+  "summary": "구로·가산디지털단지 직장인 분위기 짤 공유 \"근미래 디스토피아\". 댓글: 성냥갑 같은 지식산업센터, 맑은 날도 흐린 느낌, 사람들 표정이 무겁다, 공단 느낌을 지울 수 없음. 반면 구디는 지밸리몰·호텔이 있어 가산보다 낫고, 구내식당이 맛있다, 20년 전보단 훨씬 좋아졌다는 의견도.",
+  "comments": 41
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/17378954",
+  "title": "가산디지털단지는 출퇴근하기에는 영 별로더군요.",
+  "date": "2022-07-05",
+  "areas": [
+   "gasan",
+   "gudi"
+  ],
+  "topics": [
+   "transport",
+   "work",
+   "amenities",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "가산디지털단지는 1호선 개방형 플랫폼, 수출의다리 정체, 대로 안쪽 낡은 건물, 구내식당 외 먹을 곳 부족으로 출퇴근·근무가 별로라는 글. 댓글: 10년 근무자는 밥·술·커피 곳은 많다고 반박, 7호선이라 편하다, 남구로·대림 가면 중국 맛집, 하지만 교통지옥과 특유의 분위기는 공감.",
+  "comments": 18
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16820469",
+  "title": "구디, 금천.. 맛의 불모지...",
+  "date": "2021-12-28",
+  "areas": [
+   "gudi",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "amenities"
+  ],
+  "sentiment": "negative",
+  "summary": "강남에서 구디로 직장, 분당에서 금천구로 집을 옮긴 뒤 \"맛의 불모지\"라는 한탄(2021). 댓글: 7년째 도시락 싸 다닌다, 구내식당이 최고, 술집만 많다는 공감 다수. 추천: 대륭1차 지하 낭만부대찌개, 춘자싸롱(전집), 한판참숯소갈비, 대림동 동해반점.",
+  "comments": 28
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15138215",
+  "title": "구로역 근처는 뭐 그냥 없네요 커피숍도 햄버거집도..",
+  "date": "2020-07-04",
+  "areas": [
+   "guro_res"
+  ],
+  "topics": [
+   "amenities"
+  ],
+  "sentiment": "negative",
+  "summary": "구로역 앞(오퍼스 쪽)은 커피숍·햄버거집도 거의 없고 소규모 공장뿐이라는 글(2020). 댓글: AK플라자 철수 후 상권 약화, 공구상가가 크게 자리, 신도림에 밀림, NC 입점 기대, 대림아파트 넘어 태영상가까지 가야 뭐가 있음.",
+  "comments": 17
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/14781106",
+  "title": "구로디지털단지.. 맛집의 불모지네요",
+  "date": "2020-03-31",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "amenities",
+   "work"
+  ],
+  "sentiment": "negative",
+  "summary": "구디 근처 5년 거주자가 프랜차이즈만 생겼다 사라지고 맛집이 없다는 글. 댓글: 직장인 상대라 점심 위주, \"43년 살면서 맛집 못 봤다\", 가성비가 모든 걸 죽이는 지역. 그래도 은행골(참치), 마피아피자, 구로곱창, 꼬리찜집, 대림동 순대국 등 추천과 \"맛집 많다\"는 반론도.",
+  "comments": 19
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/17302614",
+  "title": "가산, 구디단 다들 어떻게 다니시나요? ㅠㅠ",
+  "date": "2022-06-02",
+  "areas": [
+   "gudi",
+   "gasan"
+  ],
+  "topics": [
+   "transport",
+   "work"
+  ],
+  "sentiment": "negative",
+  "summary": "출장 온 사람이 가산·구디 퇴근길 지하철 줄이 줄지 않는다며 놀람. 댓글: 비 오면 진짜 헬, 버스도 안 보임, 야근이 잦아 9시 넘어 퇴근, 수출의다리 차량 정체, 1호선 지하화 없인 답이 없다는 반응.",
+  "comments": 13
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16149733",
+  "title": "워후 가산디지털단지는 교통지옥이네요",
+  "date": "2021-05-17",
+  "areas": [
+   "gasan"
+  ],
+  "topics": [
+   "transport"
+  ],
+  "sentiment": "negative",
+  "summary": "퇴근시간 가산 로데오~수출의다리~철산대교~서부간선 진입이 50분 걸렸다(도보 13분 거리)는 교통지옥 후기. 댓글: 눈 오면 죽을 뻔, 금요일은 더 심함, 우회로 없음, 지식산업센터만 계속 올라가고 교통 개선은 없음, 수출의다리 건너는 데 1시간 걸릴 때도.",
+  "comments": 8
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/17078678",
+  "title": "서울 신림동 주택들 갈아엎네요",
+  "date": "2022-03-11",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "housing"
+  ],
+  "sentiment": "neutral",
+  "summary": "신림뉴타운 1~5구역 철거·재개발 진행 소식(2022). 댓글: 노후화 지역이 많아 재개발이 필요하다, 직접 가보면 살기 힘들다, 관악구에서도 가장 낙후된 곳이라는 의견.",
+  "comments": 6
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/18528120",
+  "title": "대림, 구로동 나들이 후기",
+  "date": "2024-01-13",
+  "areas": [
+   "daerim",
+   "guro_res"
+  ],
+  "topics": [
+   "amenities",
+   "foreigners",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림·구로동 주말 나들이 후기(2024): 로스톤 카페, 대림중앙시장(사람 매우 많고 중국어가 사방에서 들림), 남구로시장(남대문 느낌), 어딜 가나 길거리 흡연이 괴로움. 댓글: 밤 대림시장엔 만취해 길 막는 사람이 많아 덩치 큰 남자도 피해 다닌다는 증언.",
+  "comments": 8
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/7953535",
+  "title": "'준전셋값 대마왕'은 구로구",
+  "date": "2015-08-04",
+  "areas": [
+   "guro_gu"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "2015년 감정원 통계에서 구로구가 준전세 상승률 1위라는 기사 공유. 댓글: 서울에서 가장 싼 동네라 올라도 싸다, 신도림은 매매가와 전세가 차이가 거의 없다는 의견.",
+  "comments": 4
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16869637",
+  "title": "중국인이 생각하는 가리봉동과 대림동",
+  "date": "2022-01-13",
+  "areas": [
+   "garibong",
+   "daerim"
+  ],
+  "topics": [
+   "foreigners",
+   "mood",
+   "cost"
+  ],
+  "sentiment": "mixed",
+  "summary": "중국인 시각: 가리봉동은 처음 왔거나 가난할 때 머무는 임시 거주지라 물가·밥값이 싸고 더 슬럼화, 대림동은 중국인의 명동·홍대로 거기 집이 있으면 성공한 축. 댓글: 공원 질서 문제와 중국어 간판 때문에 슬럼 느낌이 나서 마음이 안 놓였다는 경험.",
+  "comments": 3
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/14399626",
+  "title": "아는 사람만 아는 서울 구석탱이 집값...",
+  "date": "2019-12-17",
+  "areas": [
+   "geumcheon_gu",
+   "gasan"
+  ],
+  "topics": [
+   "housing",
+   "cost",
+   "amenities"
+  ],
+  "sentiment": "positive",
+  "summary": "독산동·가산동은 서울인데도 집값이 저렴하고 나름 살기 좋다는 글(2019, 신축 이편한세상 6.5억 언급). 140여 댓글은 코카콜라·삼립·우시장 등 옛 독산동 추억, 홈플러스·롯데캐슬, 문일고 등 동네 이야기로 대체로 정겨운 분위기.",
+  "comments": 148
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/15714631",
+  "title": "조선족 많이 사는 동네도 멀쩡히 사람 사는 동네입니다.",
+  "date": "2020-12-22",
+  "areas": [
+   "geumcheon_gu",
+   "guro_gu",
+   "yeongdeungpo_gu"
+  ],
+  "topics": [
+   "foreigners",
+   "safety",
+   "housing"
+  ],
+  "sentiment": "mixed",
+  "summary": "\"금천구는 조선족 많아 범죄 위험\"이라는 댓글에 반박, 조선족 많은 동네도 서로 어우러져 사는 평범한 동네라는 글(2020). 100여 댓글은 공감과 함께 아파트 계급 논쟁, 실제 경험상 불편했다는 의견으로 갈림.",
+  "comments": 119
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16331856",
+  "title": "가산디지털단지 난리통입니다",
+  "date": "2021-07-19",
+  "areas": [
+   "gasan"
+  ],
+  "topics": [
+   "transport"
+  ],
+  "sentiment": "negative",
+  "summary": "퇴근길 수출의다리 건너는 데 1시간 넘게 걸렸다는 가산 교통 상황 글(2021). 댓글: 원래 늘 그렇다, 1.1km에 1시간, 마을버스도 막힘, 짓는 건물이 많아 앞으로 더 심해질 것, 독산역 지하차도 공사는 소송으로 중단.",
+  "comments": 31
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/8802700",
+  "title": "어젯밤 처음으로 가리봉동을 가봤는데요",
+  "date": "2016-02-22",
+  "areas": [
+   "garibong",
+   "gasan"
+  ],
+  "topics": [
+   "safety",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "가산디지털단지역 근처 친구 집에 가려고 밤에 가리봉시장 버스정류장에서 육교를 건넜다가 음산한 분위기와 퀴퀴한 냄새에 다시 가기 싫다는 글(2016). 댓글: 밤에는 유동인구가 없고 아울렛도 일찍 닫아 음산함, 남부순환로를 사이에 두고 분위기가 완전히 달라짐, 강력사건이 꽤 나니 조심, 벌집(쪽방) 냄새가 악몽이었다는 경험.",
+  "comments": 3
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/715728",
+  "title": "가산디지털단지역 근처(도보가능거리)에는 오피스텔/원룸 밀집지역이 없나요?",
+  "date": "",
+  "areas": [
+   "gasan",
+   "garibong",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "cost",
+   "transport"
+  ],
+  "sentiment": "neutral",
+  "summary": "가산디지털단지역 도보권 오피스텔·원룸 밀집지역 문의. 댓글: 가산 자체에는 원룸이 별로 없고 가리봉이나 독산에 원룸 전세 4~5천이 많으며 독산역~가산역 도보 20분(오래된 글).",
+  "comments": 1
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/1045725",
+  "title": "신도림vs신림vs노량진vs서울대입구, 자취한다면 어느쪽이 좋을까요?",
+  "date": "",
+  "areas": [
+   "sillim",
+   "sindaebang",
+   "gwanak_gu"
+  ],
+  "topics": [
+   "housing",
+   "noise"
+  ],
+  "sentiment": "neutral",
+  "summary": "신도림·신림·노량진·서울대입구 중 자취 지역 비교 질문(신도림은 중국인이 시끄럽다는 소문). 댓글: 서울대입구는 생각보다 북적거림, 보라매 쪽도 괜찮고 가격은 비슷하니 이동 편한 곳으로, 낙성대 남서쪽은 아무것도 없이 아주 조용하다는 추천.",
+  "comments": 6
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/17093961",
+  "title": "금천구는 하는게 뭐 없네요 돈만 밝히고",
+  "date": "2022-03-14",
+  "areas": [
+   "gasan",
+   "geumcheon_gu",
+   "gudi"
+  ],
+  "topics": [
+   "transport",
+   "work"
+  ],
+  "sentiment": "negative",
+  "summary": "금천구가 주차·교통 대책 없이 가산에 지식산업센터만 무더기로 허가한다는 불만(2022). 댓글: 시흥동 종합병원·지하철 공약도 지지부진, 금천구청역은 서울에서 가장 낡은 역, 건물은 다 비슷하고 길은 꽉 막힘, 구로·가산 연봉선이 판교·마곡보다 낮고 잘나가는 회사는 떠난다는 의견.",
+  "comments": 21
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/18510336",
+  "title": "구로구디지털단지쪽 원룸이나 고시텔",
+  "date": "",
+  "areas": [
+   "gudi",
+   "guro_res",
+   "sillim",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "지방에서 올라와 구디역 근처 월세 100 이하 원룸·고시텔을 찾는 질문. 댓글: 신림·금천 쪽에 많고 구로동·대림은 중국인이 많아 비추라는 의견, 포포인츠 바이 쉐라톤 구로 뒤쪽과 KT구로지사 주변이 원룸촌이며 구디역 4·5번 출구 쪽과 남구로역 쪽엔 조선족이 많이 산다는 구체적 정보.",
+  "comments": 5
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/16852023",
+  "title": "서울 복층 원룸 (신림, 구옥).youtube",
+  "date": "2022-01-07",
+  "areas": [
+   "sillim"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "신림 구옥 \"복층\" 원룸 유튜브 소개(보증금 100/월 30 반지하 등). 댓글: 집주인 눈에만 복층, 보증금 200/월 40에 정상적인 5평 원룸을 구한 게 행운이라는 반응.",
+  "comments": 4
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/7684740",
+  "title": "서울 가리봉-남구로역 vs 오사카 신이마미야-동물원앞역",
+  "date": "2015-06-05",
+  "areas": [
+   "garibong",
+   "guro_res",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "safety",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "가리봉~남구로역과 오사카 신이마미야 치안 비교 질문(2015). 댓글: 독산동 거주자가 \"솔직히 가리봉동(가산동) 쪽이 치안으로는 더 위험할 것\", 가산동은 남부순환로를 건너면 완전히 다른 세상이라는 의견.",
+  "comments": 7
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/kin/16122011",
+  "title": "신대방 사는 남자 이사를 갈까하는데 어디가 나을까요?",
+  "date": "",
+  "areas": [
+   "sindaebang",
+   "guro_res"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "신대방에서 6년째 투룸 10평 반전세(1억2천/월10만)로 살던 남성이 개봉동·구로동·부천 중 이사지 고민. 댓글은 서울대입구 추천 정도로 정보 적음.",
+  "comments": 2
+ },
+ {
+  "platform": "클리앙",
+  "url": "https://www.clien.net/service/board/park/10336505",
+  "title": "소방서가 혐오시설? 2년째 공회전하는 금천구.jpg",
+  "date": "2017-02-14",
+  "areas": [
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "safety",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "서울 자치구 중 유일하게 소방서가 없는 금천구에서 주민 반발로 소방서 건립이 2년째 표류한다는 기사(2017). 댓글: 혐오시설 취급에 대한 비판, 20년 산 주민이 \"동네 사람들 질이 안 좋다\"고 쓰기도.",
+  "comments": 30
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=142171",
+  "title": "구디 독산 철산역중 자취하기 괜찮은 동네 추천 부탁드립니다.",
+  "date": "2020-03-22",
+  "areas": [
+   "gudi",
+   "sillim",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "amenities"
+  ],
+  "sentiment": "mixed",
+  "summary": "중기청 대출로 1억 내 원룸을 찾는 사람이 구디·독산·철산 비교 문의(2020). 댓글: 구디역 기준 이마트 건너편은 살 만하고 조원동 방향은 집이 낡은 편, 이마트·가디 아울렛 가깝고 먹을 데 많아 생활 편함. 독산역 근처는 아직 낙후, 구디는 중기청 100% 가능한 매물이 거의 없다는 경험.",
+  "comments": 4
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=117928",
+  "title": "구로디지털단지역 오피스텔을 구하려고 하는데 조언좀 부탁드립니다.",
+  "date": "2019-02-16",
+  "areas": [
+   "gudi",
+   "daerim",
+   "gasan",
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "neutral",
+  "summary": "구디역 신축 오피스텔 시세 문의(2019): 2000/50 정도이고 대부분 월세라 전세 매물이 없음. 댓글: 가산동 신축 오피스텔도 시세 비슷하니 알아보고, 신대방·조원동 쪽도 보라는 조언.",
+  "comments": 4
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8009712",
+  "title": "서울 구디 쪽인데 주택용으로 되어 있는 원룸 전세 최저가가 9천만원이네요",
+  "date": "2022-09-19",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "negative",
+  "summary": "구디에서 집을 보러 다녔더니 주거용 원룸 전세 최저가가 3평 남짓에 9천만원, 신축 5~6평은 2억 넘는다는 글(2022). 그보다 싼 곳은 근린생활시설(편법 주거)이라 전세대출·보증보험이 안 돼 위험하다는 경고. 댓글: 월세도 관리비 10만원 이상이라 원룸 60만원이 우습게 넘고, 싸고 안전하려면 구옥 빌라로 가라는 조언.",
+  "comments": 9
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8440064",
+  "title": "신림동이 갈때마다 좀 무섭긴하더라고요",
+  "date": "2023-08-17",
+  "areas": [
+   "sillim",
+   "daerim",
+   "guro_res"
+  ],
+  "topics": [
+   "safety",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "신림역 부근 범죄가 계속 일어나 신림동이 갈 때마다 무섭다는 글(2023 신림 사건 직후). 퇴폐업소·고시원·모텔·술집 천지에 더럽다는 인상, 서울 치안 안 좋은 동네로 신림·대림·구로동 등을 꼽음. 댓글: 선입견이라는 반박과 \"신림 치안은 선입견이 아니다\"는 의견이 맞섬.",
+  "comments": 17
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=help&no=1351290",
+  "title": "직장이 가산이면 자취 는 어느쪽이 좋을까요?[완료]",
+  "date": "2022-09-21",
+  "areas": [
+   "gasan",
+   "garibong",
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "transport",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "가산 직장인의 자취 지역 문의(2022). 댓글: 가산~가리봉에 잡으면 인프라 다 있고 집값도 싸서 괜찮지만 외국인 노동자가 많고 차로 다니기엔 교통이 최악, 광명은 출퇴근 지옥, 분위기를 원하면 7호선 신대방삼거리·상도동으로 가라는 추천.",
+  "comments": 3
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=218968",
+  "title": "대림동 , 오류동, 독산동 이중 어디가 가장 좋나요?",
+  "date": "2023-02-20",
+  "areas": [
+   "daerim",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "foreigners",
+   "transport"
+  ],
+  "sentiment": "mixed",
+  "summary": "대림동·오류동·독산동 중 조용하고 여의도 가까운 곳 문의(2023). 댓글: 여의도 접근성만 보면 대림이 최고지만 빌라·주택가는 중국동포가 장악해 거부감 없어야 함, 대림1·2·3동별로 중국인 비중이 다름, 독산동은 대림·가리봉의 베드타운 역할(저녁 놀이터가 이국적), 학교 다닐 아이가 있으면 세 곳 다 피하라는 의견.",
+  "comments": 14
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=178424",
+  "title": "대림동 아파트 근황.jpg",
+  "date": "2021-02-23",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "housing",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "신도림역세권인 대림동 구축 아파트 시세 급등 그래프 공유(2021). 행정구역은 대림동이지만 살기 좋다는 평. 댓글: 초등학교에 조선족 아이가 많아(대동초만큼은 아니지만) 한국인이 아이 키우기엔 부정적이라는 의견과 지역 비하 논쟁.",
+  "comments": 31
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9766983",
+  "title": "이민정책 아 지금 서울 대림동 가리봉동 보면 이민정책 글쎼요",
+  "date": "2025-12-21",
+  "areas": [
+   "daerim",
+   "garibong"
+  ],
+  "topics": [
+   "foreigners",
+   "mood",
+   "noise"
+  ],
+  "sentiment": "negative",
+  "summary": "이민정책 관련해 대림·가리봉을 보면 회의적이라는 글(2025-12): 동네가 90년대 중반 같고 길거리 흡연이 흔하며 주말엔 고성방가, 20년 산 지인은 초등학교에서 한국인이 역으로 따돌림당한다고 함. 댓글: 코리아타운과 다를 게 없다는 반론과 \"주말 밤에 가보라\"는 재반박.",
+  "comments": 15
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=168514",
+  "title": "7,9호선 직장인 살기 좋은 동네 좀 골라주실 수 있을까요 (구의 군자 상도 신대방 등..)",
+  "date": "2020-11-24",
+  "areas": [
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "foreigners",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "강남구청 출근 남성이 7호선 라인 원룸 전세(1.6억) 후보 비교. 보라매·신대방삼거리·장승배기는 군 시절 깔끔하고 조용했다는 기억. 댓글: 구의와 함께 이쪽도 조선족 거주지역이라는 의견, 신대방삼거리~상도는 중국인 얘기 못 들었다는 반론.",
+  "comments": 16
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=130136",
+  "title": "신대방 지역인데 살기 어떨가여 ?",
+  "date": "2019-09-27",
+  "areas": [
+   "sindaebang"
+  ],
+  "topics": [
+   "safety",
+   "mood",
+   "amenities",
+   "transport",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "여동생 혼자 살 신대방 동네 문의(2019). 댓글: 중국동포·직장인 많음, 엄청 조용한 주택가라 밤엔 으슥해 여자 혼자 밤길은 좀 무섭다는 의견. 4년 산 주민은 신대방역 쪽 치안 굉장히 좋고(신림역 쪽은 취객 많음), 난곡사거리·신사시장 상권, 골목 맛집, 여의도·강남 30분, 보라매공원·도림천 산책이 장점이며 자차는 남부순환로가 막혀 비추라고 정리. 비 많이 오면 침수 우려도 언급.",
+  "comments": 11
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=204906",
+  "title": "서울에서 자취 하기 좋은 곳??",
+  "date": "2024-11-05",
+  "areas": [
+   "sindaebang",
+   "sillim",
+   "daerim"
+  ],
+  "topics": [
+   "housing",
+   "cost",
+   "transport"
+  ],
+  "sentiment": "neutral",
+  "summary": "보증금 1~3천/월 50~60으로 서울 자취지 추천 요청, 후보로 신대방~신림~낙성대(2호선) 제시(2024). 댓글은 답십리·건대 등 다른 곳 추천이 많고, 신림선 라인 괜찮다, 중국인 빼면 대림이 2·7호선 더블로 위치 최고라는 의견.",
+  "comments": 25
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=help&no=1363692",
+  "title": "구로구 오류 개봉 사시는 분들 비행기소리 들리시나요[완료]",
+  "date": "2023-06-28",
+  "areas": [
+   "guro_gu",
+   "gudi",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "noise"
+  ],
+  "sentiment": "mixed",
+  "summary": "구로구 오류·개봉 비행기 소음 문의(2023). 댓글: 구디 앞 오피스텔에선 비행기 소리 못 들었다는 사람과, 구디 바로 아래 독산동(홈플러스 앞)은 머리 위로 낮게 날아 창문 열면 엄청 시끄럽다는 사람이 갈림. 김포공항 착륙 경로가 개봉-독산-신월이라는 설명.",
+  "comments": 30
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8194308",
+  "title": "구로쪽은 맛집 찾기 힘드네요.",
+  "date": "2023-01-19",
+  "areas": [
+   "gudi",
+   "guro_res"
+  ],
+  "topics": [
+   "amenities"
+  ],
+  "sentiment": "mixed",
+  "summary": "신도림·구로·고척에 맛집이 없다는 글(2023). 댓글: 신도림은 먹을 데가 없고 차라리 구로디지털단지역 먹자골목이 선택 폭이 훨씬 넓다, 구디가 \"신세계로 변모\"했다는 평. 문래가 영등포구 핫플이라는 추천.",
+  "comments": 14
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9602910",
+  "title": "구로디지털단지역 근처 별밤 앞을 저번 주말에 지나가는데",
+  "date": "2025-08-21",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "amenities",
+   "mood",
+   "noise"
+  ],
+  "sentiment": "neutral",
+  "summary": "구디역 근처 \"별밤\"(클럽포차/헌팅포차) 앞에 20대 초중반이 줄 서 있었다는 목격담(2025). 댓글: 구디 별밤은 젊은 층이 가는 클럽포차 개념이라는 설명. 구디역 주변에 유흥·야간 상권이 있다는 정보.",
+  "comments": 6
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8474515",
+  "title": "구로디지털단지 시민 있으신가요?",
+  "date": "2023-09-13",
+  "areas": [
+   "gudi",
+   "guro_res"
+  ],
+  "topics": [
+   "amenities"
+  ],
+  "sentiment": "mixed",
+  "summary": "구디역 근처 순대국 맛집 질문(2023). 댓글: 구디역은 직장인 상대라 특별한 맛집은 없고 남구로역 쪽 아파트 단지에 먹을 곳이 있다는 의견, 본래순대·서일순대국(대림 방향)·먼지막 순대국·구로시장 현정이네 추천.",
+  "comments": 8
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9007946",
+  "title": "요즘 서울 원룸 현실적 시세",
+  "date": "2024-10-22",
+  "areas": [
+   "sindaebang",
+   "sillim"
+  ],
+  "topics": [
+   "housing",
+   "cost"
+  ],
+  "sentiment": "negative",
+  "summary": "신대방·신림 4.5~5평 원룸이 보증금 2천에 월세 70 이상(관리비 포함, 전기가스 별도)이라는 2024년 시세 글. 댓글: 전세사기 이후 월세난으로 좋은 매물 찾기 하늘의 별따기, 강북 대학가가 너무 비싸 학생들이 금천·구로 외곽으로 간다는 의견도.",
+  "comments": 34
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=40010",
+  "title": "서울 금천구 살기 에 어떤",
+  "date": "2015-08-31",
+  "areas": [
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "foreigners",
+   "transport"
+  ],
+  "sentiment": "negative",
+  "summary": "금천구 독산동 아파트가 왜 싼지 실거주 관점 문의(2015). 댓글: 동네에 중국인이 좀 있고 지하철이 멀어 버스 타고 나가야 하며 아래 시흥동도 별로라는 평이 많아 포기했다, 금천구는 생각보다 비추천이 많다, 양천구 신월·신정동을 보라는 조언.",
+  "comments": 23
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=help&no=1063171",
+  "title": "저기 독산동 쪽에 사시는 분들께 여쭙고 싶습니다.",
+  "date": "2015-06-03",
+  "areas": [
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "noise",
+   "foreigners",
+   "housing"
+  ],
+  "sentiment": "mixed",
+  "summary": "독산동 원룸이 많은데 공장 많아 공기·소음 어떤지 문의(2015). 댓글: 외국인 노동자가 많아 밤에 시끄럽다, 홈플러스 뒤 소규모 공장지대는 늘 시끄럽고 공기도 별로이며 안양천까지 한참, 금천구청역 쪽 시흥동이 낫다. 독산동 주민은 문제없이 잘 살고 있다고 반박.",
+  "comments": 20
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=7044089",
+  "title": "금천구 에 직장이 있고 자취 생각중인데 어디 위치가 좋을까요?",
+  "date": "2020-06-20",
+  "areas": [
+   "gudi",
+   "gasan",
+   "sillim",
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "amenities"
+  ],
+  "sentiment": "neutral",
+  "summary": "금천구로 이직한 30대 싱글 남성이 1.6억 전세 자취지 고민(2020). 댓글: 지하철역에 따라 광명·안양도 가능, 원룸이면 신림·신대방도 가능, 신림 도림천·보라매공원 라인엔 젊은 직장인과 운동하는 사람이 엄청 많다는 추천.",
+  "comments": 11
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9870664",
+  "title": "혹시 '구로디지털단지'로 출퇴근 하시는 분 있나요?",
+  "date": "2026-03-13",
+  "areas": [
+   "gudi"
+  ],
+  "topics": [
+   "amenities",
+   "work"
+  ],
+  "sentiment": "positive",
+  "summary": "구디 출근 시절 이마트 뒤편 출근길에서 팔던 스팸김밥을 아직 파냐는 질문(2026). 댓글: 지금도 영업 중이며 9시 조금 넘으면 완판되는 경우가 많다는 정보. 구디 출근길 소소한 명물.",
+  "comments": 8
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=219527",
+  "title": "관악구 살기 어떤가요",
+  "date": "2025-06-20",
+  "areas": [
+   "gwanak_gu",
+   "sillim"
+  ],
+  "topics": [
+   "housing",
+   "safety",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "관악구 월세집 보러 다니며 반지하 등 실망하는 사람의 질문(2025). 댓글: 혼자 살기 좋다(강남 가깝고 2호선, 놀거리), 중국인 좀 있음, 동네마다 차이가 큼. 신사동·낙성대·사당 괜찮고 주택가는 조용하나 역에서 멀다, 대학동(신림9동)은 신림선 개통 후 직장인이 많고 밤에도 치안 괜찮아 보였다는 의견.",
+  "comments": 12
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=8983435",
+  "title": "서울 업무지구 중..가산이 젤 구린듯한 느낌입니다.",
+  "date": "2024-10-03",
+  "areas": [
+   "gasan",
+   "gudi"
+  ],
+  "topics": [
+   "work",
+   "mood",
+   "transport",
+   "amenities"
+  ],
+  "sentiment": "negative",
+  "summary": "서울 업무지구(광화문·여의도·강남·가산/구디) 중 가산이 제일 별로라는 비교 글(2024). 댓글: 가산·구로는 그냥 아파트형 공장, 지산만 지어 인구밀도는 높았는데 교통지옥이고 1호선 지상철이 동네를 갈라놓으며 술집·맛집 발달도 애매. 그래도 지산마다 구내식당이 있고 물가가 저렴하다는 반론.",
+  "comments": 10
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=203740",
+  "title": "구로디지털단지 직주근접? 또는 거주지역추천",
+  "date": "2022-02-05",
+  "areas": [
+   "gudi",
+   "daerim",
+   "sindaebang",
+   "geumcheon_gu"
+  ],
+  "topics": [
+   "housing",
+   "noise",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "구디 직장인이 직주근접 아파트(한솔솔파크·신대림자이·동작 성원상떼빌) 고민(2022). 댓글: 금천 이랜드해가든·시흥 베르빌, 보라매타운 주변이 조용해 추천, 주변 중국인이 걸린다는 의견. 성원상떼빌 거주자는 옛날 주상복합이라 여름 덥고 겨울 춥고 환기가 안 되며 대로변 세대는 차·오토바이 소음이 심하다고 비추.",
+  "comments": 5
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9592248",
+  "title": "구디 가디 둘다 디지털단지인데 분위기 비슷한가요?",
+  "date": "2025-08-14",
+  "areas": [
+   "gudi",
+   "gasan"
+  ],
+  "topics": [
+   "mood",
+   "foreigners",
+   "transport"
+  ],
+  "sentiment": "neutral",
+  "summary": "구디와 가디 분위기 차이 질문(2025). 댓글: 가디가 더 오피스단지 느낌, 구디는 중국인이 많고 가디는 오피스 느낌이 좋지만 교통지옥이라는 답.",
+  "comments": 3
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=251857",
+  "title": "구로동 vs 중동신도시 비교좀 부탁드립니다!!",
+  "date": "2026-05-11",
+  "areas": [
+   "guro_res"
+  ],
+  "topics": [
+   "housing",
+   "foreigners"
+  ],
+  "sentiment": "mixed",
+  "summary": "가산 직장인이 구로구청 부근 구로동 나홀로아파트(13.5평 약 2.5억) vs 부천 중동 대단지 고민(2026). 댓글: 집값 반등은 구로가 높겠지만 살기는 중동이 훨씬 좋고 나홀로는 되팔기 어렵다며 만장일치로 중동 추천. 남구로역 빌라 몸테크도 언급.",
+  "comments": 4
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9603287",
+  "title": "남구로역 앞서 흉기 '휙휙'.. '불법체류' 중국인 \"장난치려고\"",
+  "date": "2025-08-21",
+  "areas": [
+   "guro_res"
+  ],
+  "topics": [
+   "safety",
+   "foreigners"
+  ],
+  "sentiment": "negative",
+  "summary": "2025년 8월 남구로역 일대에서 칼을 허공에 휘두른 중국 국적 불법체류자가 검거·출국 조치됐다는 기사 공유. 댓글은 외국인 제한 요구와 다문화와는 관계없다는 반박.",
+  "comments": 4
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=37276",
+  "title": "신도림역 살기 어떤가요?",
+  "date": "2015-07-21",
+  "areas": [
+   "daerim",
+   "guro_res",
+   "sillim",
+   "gasan"
+  ],
+  "topics": [
+   "safety",
+   "housing"
+  ],
+  "sentiment": "mixed",
+  "summary": "강남 취업 예정 지방 여성의 신도림·구로 자취 문의(2015). 대림역 쪽은 중국인이 많아 위험하다고 들었다고. 댓글: 여성이면 강동 쪽 추천, 강남 출근이면 2호선 신림이 괜찮고 신림·신대방·봉천·서울대입구에 방이 많다, 독산·가산은 가격 비슷하나 환승 필요, 까치산은 모텔촌이라 비추.",
+  "comments": 29
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=wedding&no=6540",
+  "title": "아는 오빠가 대림에 있는 오피스텔을 신혼집으로 살거라는데",
+  "date": "2015-02-12",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "housing",
+   "foreigners"
+  ],
+  "sentiment": "negative",
+  "summary": "지인이 대림역 근처 2억 오피스텔을 대출로 사서 신혼집으로 하려 한다는 상담(2015). 댓글: 오피스텔은 가격이 떨어져 사는 게 아니다, 빌라 전세가 낫다, \"대림역이라서 일단 반대\"라는 의견이 다수. 결국 안 사기로 함.",
+  "comments": 15
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=20643",
+  "title": "대림역 주변 살기 어떤가요? ++감사합니다. 차후 매매시 시세가 오를 가능성은 어떨까요??",
+  "date": "2014-08-13",
+  "areas": [
+   "daerim"
+  ],
+  "topics": [
+   "safety",
+   "foreigners",
+   "housing"
+  ],
+  "sentiment": "negative",
+  "summary": "30대 미혼 여성이 대림역 투룸 오피스텔 분양 매수를 고민(2014). 댓글: 큰길은 괜찮아도 골목이면 말리고 싶다, 여성이면 더더욱 비추, 중국인 싸움엔 경찰도 방관한다는 주민 전언(과장이라는 반론도), 골목 집집마다 CCTV가 많았다는 경험, 저녁에 한번 돌아보면 감이 온다는 조언.",
+  "comments": 14
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=255853",
+  "title": "구로구 금천구가 왜 하급지인지 궁금해서 생각해봤습니다",
+  "date": "2026-08-04",
+  "areas": [
+   "guro_gu",
+   "geumcheon_gu",
+   "guro_res"
+  ],
+  "topics": [
+   "housing",
+   "foreigners",
+   "safety",
+   "amenities",
+   "transport"
+  ],
+  "sentiment": "negative",
+  "summary": "구로·금천이 왜 하급지인지 정리(2026): 학군 부재, 노후 빌라촌, 경사지, 중국인 비중과 치안 불안, 초등학교 중국계 비중, 저소득층, 백화점·공원·병원 부족, 교통 인프라 부족, 1호선 지상철 소음·단절. 댓글: 거주민 민도 문제, 아이 초등 입학 전에 이사 간다는 지인 사례, 신도림동은 국평 15~19억으로 구로동과 차이가 커서 동 단위로 봐야 한다는 의견.",
+  "comments": 10
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=82607",
+  "title": "서울 여자 자취 방으로 괜찮은 동네가 어디있을까요??",
+  "date": "2017-04-13",
+  "areas": [
+   "gudi",
+   "sillim",
+   "gwanak_gu"
+  ],
+  "topics": [
+   "safety",
+   "housing",
+   "mood"
+  ],
+  "sentiment": "mixed",
+  "summary": "구디 직장 여성이 1.5~1.8억 예산 자취지 문의(2017). 신림은 북적이고 유흥가라 별로였다고. 댓글: 신림·구로·관악은 피하라는 의견, 신림은 사이렌 소리가 자주 들리고 술집에서 중국인이 시비 건다는 경험 vs 살아봤는데 괜찮았다는 의견, 구디 버거킹 건물 근처 등 구디 자체도 괜찮다는 의견, 7호선 군자·어린이대공원 대안 추천.",
+  "comments": 18
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=78624",
+  "title": "역세권 보라매역vs 문래역vs영등포구청역 어디가좋을까요?",
+  "date": "2017-02-25",
+  "areas": [
+   "sindaebang"
+  ],
+  "topics": [
+   "housing",
+   "mood"
+  ],
+  "sentiment": "positive",
+  "summary": "아이 키울 곳으로 보라매역·문래역·영등포구청역 비교(2017). 댓글: 보라매역 근처는 공원이 크고 조용하며 유해환경이 없어 보여 좋지만 비싸다, 신길5구역(보라매)은 7호선·신림선으로 알짜, 문래는 학생들이 목동으로 빠진다는 정보.",
+  "comments": 14
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=49034",
+  "title": "신대방 신림 봉천 서울대입구역 원룸 어디가 괜찮나요?",
+  "date": "2016-02-05",
+  "areas": [
+   "sindaebang",
+   "sillim",
+   "gwanak_gu"
+  ],
+  "topics": [
+   "housing",
+   "cost",
+   "amenities"
+  ],
+  "sentiment": "positive",
+  "summary": "여대생이 신대방·신림·봉천·서울대입구 원룸 중 싸고 살기 좋은 곳 문의(2016). 댓글: 신림·봉천이 싸고, 신림동 고시촌 입구(신림2·9동, 대학동)는 고시생이 빠져 저렴하며 고시뷔페 등 밥값이 싸고 편의시설이 많아 추천.",
+  "comments": 6
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9560378",
+  "title": "현재 난리난 가리봉동 민심 근황 ㄷㄷㄷ",
+  "date": "2025-07-25",
+  "areas": [
+   "garibong"
+  ],
+  "topics": [
+   "foreigners",
+   "safety",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "2025년 7월 아이돌 경찰체험 영상(워크돌) 속 가리봉시장 불법체류 단속에 주민이 반발하는 모습 관련 글. 댓글은 출연자 외모 얘기와 함께 \"불체자 내보내라\", \"조선족도 보내야\" 등 강한 반감.",
+  "comments": 19
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=684775",
+  "title": "가리봉동 분위기 근황 .mp4",
+  "date": "2025-07-25",
+  "areas": [
+   "garibong"
+  ],
+  "topics": [
+   "foreigners",
+   "mood"
+  ],
+  "sentiment": "negative",
+  "summary": "같은 가리봉동 단속 영상 공유. 댓글: \"충격\", \"시장 폐쇄해야\", \"이미 답이 없어 보인다\", 불법체류자 관리 강화 요구 등 부정적 반응 일색.",
+  "comments": 13
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=64275",
+  "title": "구로디지털단지역 아파트 매수문의",
+  "date": "2016-08-31",
+  "areas": [
+   "gudi",
+   "daerim"
+  ],
+  "topics": [
+   "housing",
+   "noise",
+   "safety",
+   "foreigners",
+   "transport"
+  ],
+  "sentiment": "mixed",
+  "summary": "구디역 역세권 신대림 한솔솔파크(2008년 입주, 232세대) 4.7억 매수 문의(2016). 장점: 구디역·이마트 도보, 도림천. 단점: 소규모, 2호선·도로 소음·먼지, 중국인 다수. 댓글: 밤에 근처 도로를 고속으로 달려 소음이 있고 아이들에게 위험, 중국인 많아 치안 위험, 학군 애매하지만 위치는 좋다. 보라매 후문 쪽 아파트가 외국인 적어 낫다는 의견.",
+  "comments": 8
+ },
+ {
+  "platform": "뽐뿌",
+  "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=30715",
+  "title": "구로 두산 아파트 사시는 분 계신가요??",
+  "date": "2015-03-30",
+  "areas": [
+   "guro_res",
+   "gudi",
+   "daerim",
+   "garibong"
+  ],
+  "topics": [
+   "housing",
+   "transport",
+   "amenities",
+   "foreigners"
+  ],
+  "sentiment": "positive",
+  "summary": "구디 직장인이 구로두산아파트(20평 전세 약 1.8억) 문의(2015). 댓글: 교통 편리하고 신도림·구디 가까움, 뒤에 시장 있고 가산·구디 도보 출근 가능, 조용한 편, 복도식·중앙난방이라 따뜻함, 주차장은 좁음. 주변(대림·가리봉)에 중국동포가 아주 많은 것만 빼면 살기 좋다는 평.",
+  "comments": 3
+ }
+]
