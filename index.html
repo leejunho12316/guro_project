@@ -153,6 +153,7 @@ a.rv-post.read{opacity:.5}a.rv-post.read .tt{font-weight:500}.rdb{margin-left:au
 .sdot{width:8px;height:8px;border-radius:50%;display:inline-block}
 .rv-lbl{background:rgba(255,255,255,.92);border:none;box-shadow:0 1px 3px rgba(0,0,0,.25);border-radius:6px;padding:3px 7px;font-family:Pretendard,sans-serif;font-size:12px;font-weight:700;white-space:nowrap}
 .rv-lbl:before{display:none}
+.pm.gone .bx{text-decoration:line-through;text-decoration-thickness:2px;opacity:.6;filter:grayscale(.5)}.pm.gone .tl{opacity:.6}
 </style></head><body>
 <header>
 <h1>구디 <em>월세방</em> 지도</h1><button id="favbtn" type="button" title="즐겨찾기만 보기">☆ 즐겨찾기 <b id="favcnt">0</b></button><button id="ghbtn" type="button" title="GitHub 연결 설정">⚙</button><button id="fbtn" type="button">필터 ▾</button>
@@ -216,7 +217,7 @@ return '<div class="pop"><button class="star pstar'+(isFav(x)?' on':'')+'" data-
 '</table></div>';}
 const groups={},on={};
 for(const k in P){on[k]=true;groups[k]=L.markerClusterGroup({maxClusterRadius:45,disableClusteringAtZoom:18,spiderfyOnMaxZoom:true,iconCreateFunction:c=>{const n=c.getChildCount();const s=n<10?32:n<50?38:46;return L.divIcon({html:'<div class="cl" style="width:'+s+'px;height:'+s+'px;background:'+P[k].c+'">'+n+'</div>',className:'',iconSize:[s,s]});}});map.addLayer(groups[k]);}
-function pinIcon(x){const c=P[x.p].c;return L.divIcon({html:'<div class="pm'+(isFav(x)?' fav':'')+'"><div class="bx" style="background:'+c+'">'+price(x)+'<small>월 '+n1(x.tot)+'만</small></div><div class="tl" style="border-top-color:'+c+'"></div></div>',className:'',iconSize:[0,0],popupAnchor:[0,-38]});}
+function pinIcon(x){const c=P[x.p].c;return L.divIcon({html:'<div class="pm'+(isFav(x)?' fav':'')+(x.gone?' gone':'')+'"><div class="bx" style="background:'+c+'">'+price(x)+'<small>월 '+n1(x.tot)+'만</small></div><div class="tl" style="border-top-color:'+c+'"></div></div>',className:'',iconSize:[0,0],popupAnchor:[0,-38]});}
 function mkMarker(x,i){x.i=i;x.k=x.url;BYK[x.k]=x;x.mk=L.marker([x.la,x.ln],{icon:pinIcon(x)}).bindPopup(()=>popup(x),{maxWidth:330,autoPanPaddingTopLeft:[20,60]});x.mk._x=x;}
 DATA.forEach(mkMarker);
 const chips=document.getElementById('chips');
