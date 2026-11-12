@@ -378,11 +378,11 @@ function renderRevArea(){const k=revCur,a=REV.areas[k];const s=revSubK?subOf(rev
 $('rev').addEventListener('click',e=>{const sb=e.target.closest('[data-sub]');if(sb){revSub(sb.dataset.sub);return;}
  const ar=e.target.closest('.rv-area');if(ar){revArea(ar.dataset.k);return;}
  if(e.target.closest('[data-up]')){revArea(revCur);return;}
- if(e.target.closest('[data-back]')){if(window._guHi){revLayer.removeLayer(window._guHi);window._guHi=null;}if(subLayer){revLayer.removeLayer(subLayer);subLayer=null;}revSubK=null;Object.values(revPolys).forEach(g=>{const t=g.getTooltip();if(t)t.setOpacity(1);});revHome();map.setView([37.4975,126.8960],14);return;}
+ if(e.target.closest('[data-back]')){if(window._guHi){revLayer.removeLayer(window._guHi);window._guHi=null;}if(subLayer){revLayer.removeLayer(subLayer);subLayer=null;}revSubK=null;Object.values(revPolys).forEach(g=>{const t=g.getTooltip();if(t)t.setOpacity(1);});revHome();return;}
  const tb=e.target.closest('[data-tp]');if(tb){revTopic=tb.dataset.tp;renderRevArea();const top=document.querySelector('.rv-tp');if(top)top.scrollIntoView();}});
 function setRev(on){REVON=on;B.classList.toggle('revmode',on);$('revbtn').textContent=on?'🏠 매물 보기':'💬 리뷰';
- if(on){for(const k in P)map.removeLayer(groups[k]);if(!revLayer)buildRevLayer();revLayer.addTo(map);map.closePopup();if(typeof hideDetail==='function')hideDetail();revHome();map.setView([37.4975,126.8960],14);if(isMob()){B.classList.remove('sheetmin','sheetmax');}}
- else{if(revLayer)map.removeLayer(revLayer);for(const k in P)map.addLayer(groups[k]);render();map.setView([37.4862,126.8985],16);}
+ if(on){for(const k in P)map.removeLayer(groups[k]);if(!revLayer)buildRevLayer();revLayer.addTo(map);map.closePopup();if(typeof hideDetail==='function')hideDetail();revHome();if(isMob()){B.classList.remove('sheetmin','sheetmax');}}
+ else{if(revLayer)map.removeLayer(revLayer);for(const k in P)map.addLayer(groups[k]);render();}
  setTimeout(()=>map.invalidateSize(),60);}
 $('revbtn').onclick=()=>setRev(!REVON);
 
